@@ -6,9 +6,9 @@ Create a client-side quiz app based on the provided requirements, data and views
 ## Index
 - [Requirements](#requirements)
 - [Quiz Data](#quiz-data)
+- [Demo](#demo)
 - [Views Requirment](#views)
 - [Running](#running)
-- [Demo](#demo)
 - [Goals](#goals)
 - [Future Goals](#future-goals)
 - [Contact](#contact)
