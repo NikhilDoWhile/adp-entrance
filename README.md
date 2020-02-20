@@ -46,7 +46,7 @@ For every question there is one correct answer (with a value of `true`) and thre
 
 ## Views
 
-Feel free to be creative and style your views. As a bare minimum, please create the following three views:
+As a bare minimum, please create the following three views:
 
 ##### 01 - Welcome Screen
 
