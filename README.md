@@ -24,6 +24,7 @@ Create a client-side quiz app based on the provided requirements, data and views
 
 ![Quiz App](./diagrams/walk_through.gif)
 
+- :rocket: Built Using HTML, CSS, JS
 
 ## Quiz Data
 
