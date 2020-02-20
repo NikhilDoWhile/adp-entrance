@@ -3,6 +3,18 @@
 Create a client-side quiz app based on the provided requirements, data and views.
 
 
+## Index
+- [Requirements](#requirements)
+- [Quiz Data](#quiz-data)
+- [Views Requirment](#views)
+- [Upon Project Completion](#upon-project-completion)
+- [Running](#running)
+- [Demo](#demo)
+- [Goals](#goals)
+- [Future Goals](#future-goals)
+- [Contact](#contact)
+
+
 ## Requirements
 
 - clone this repo as a starter
@@ -39,15 +51,11 @@ Feel free to be creative and style your views. As a bare minimum, please create 
 
 ##### 01 - Welcome Screen
 
-![01 - Welcome View](./diagrams/quiz-01.png)
-
 The view presented when the user starts the app.
 
 - load either quiz 1 or quiz 2 on click
 
 ##### 02 - Quiz View
-
-![02 - Quiz View](./diagrams/quiz-02.png)
 
 While the user is selecting their answers:
 
@@ -57,8 +65,6 @@ While the user is selecting their answers:
 - track the number of correct answers in the top right corner
 
 ##### 03 - Completion View
-
-![03 - Completion View](./diagrams/quiz-03.png)
 
 When the user has finished answering all three questions:
 
@@ -70,4 +76,100 @@ When the user has finished answering all three questions:
 - push your finished app to Github
 - provide your username and repo to an instructor
 
-Good luck!
+
+
+## Running
+###Python 3 
+```js
+python -m http.server
+```
+Open browser and type ```localhost:8080```
+
+For More Info: https://docs.python.org/3.0/library/http.server.html
+
+Python 2
+```js
+python -m SimpleHTTPServer
+```
+
+Node.js
+```js
+http-server
+```
+- run the command: ```npm install http-server -g```
+- Open browser and type ```localhost:8080```
+
+
+## Demo
+
+![Quiz App](./diagrams/walk_through.gif)
+
+
+## Views
+
+Home (Mobile View)
+
+![Quiz App](./diagrams/homeMobileView.JPG)
+
+Home (Desktop View)
+
+![Quiz App](./diagrams/homeDesktopView.JPG)
+
+Quiz
+
+![Quiz App](./diagrams/quizView.JPG)
+
+Pass
+
+![Quiz App](./diagrams/passFinalView.JPG)
+
+Fail
+
+![Quiz App](./diagrams/finalView.JPG)
+
+Score
+
+![Quiz App](./diagrams/scoreView.JPG)
+
+
+## Goals
+:white_check_mark: Welcome Screen
+
+:white_check_mark: Quiz 1 btn, Quiz 2 btn, Score
+
+:white_check_mark: Quiz View
+
+:white_check_mark: display all 3 questions with possible answers
+
+:white_check_mark: provide feedback when a user clicks on an answer
+
+:white_check_mark: show the next question after a time delay of 2 seconds
+
+:white_check_mark: track the number of correct answers in the top right corner
+
+:white_check_mark: Completion View
+
+:white_check_mark: display the final score
+
+:white_check_mark: show a "pass" message / "fail" message
+
+:white_check_mark: Save user name in local storage with score
+
+:white_check_mark: Change Background color based on Pass or Fail
+
+:white_check_mark: Chart of Scores
+
+:white_check_mark: Header which on click will take to Home
+
+
+## Future Goals
+:clock1: On Fail: Add motivational quote
+
+:clock1: Add Dynamic Chart
+
+:clock1: Show Hint in Quiz ```on click```
+
+
+
+## Contact
+:mailbox: Mail: nikhil4.deswal@gmail.com
