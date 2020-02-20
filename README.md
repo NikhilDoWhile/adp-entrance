@@ -20,6 +20,11 @@ Create a client-side quiz app based on the provided requirements, data and views
 - use only HTML/CSS/JS
 - use any frameworks or libraries of your choice (ex: JQuery, React, Bootstrap)
 
+## Demo
+
+![Quiz App](./diagrams/walk_through.gif)
+
+
 ## Quiz Data
 
 Quiz data can be found in [src/quiz.json](./src/quiz.json). This content will be loaded when a user starts a quiz.
@@ -96,9 +101,7 @@ http-server
 - Open browser and type ```localhost:8080```
 
 
-## Demo
 
-![Quiz App](./diagrams/walk_through.gif)
 
 
 ## Views
