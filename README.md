@@ -75,7 +75,7 @@ When the user has finished answering all three questions:
 
 
 ## Running
-###Python 3 
+#### Python 3 
 ```js
 python -m http.server
 ```
@@ -83,12 +83,12 @@ Open browser and type ```localhost:8080```
 
 For More Info: https://docs.python.org/3.0/library/http.server.html
 
-Python 2
+#### Python 2
 ```js
 python -m SimpleHTTPServer
 ```
 
-Node.js
+#### Node.js
 ```js
 http-server
 ```
