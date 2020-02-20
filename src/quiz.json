@@ -1,0 +1,53 @@
+[
+    {
+      "question": "If two left handed people argue, which one is right?",
+      "choice1": "The one on the right.",
+      "choice2": "The one on the left.",
+      "choice3": "The one with the gun.",
+      "choice4": "Tom.",
+      "answer": 2
+    },
+    {
+      "question":"What does Google use if it can't find an answer on Google??",
+      "choice1": "Bing",
+      "choice2": "Bang",
+      "choice3": "Bong",
+      "choice4": "Ask Jeeves",
+      "answer": 4
+    },
+    {
+      "question": "What kind of pants do Mario and Luigi wear?",
+      "choice1": "Dussault apparel slashed jeans",
+      "choice2": "Tapered bell bottoms",
+      "choice3": "Acid washed Guccis",
+      "choice4": "Denim denim denim",
+      "answer": 4
+    },
+     {
+      "question": "How many programmers does it take to change a lightbulb?",
+      "choice1": "x = x + 1",
+      "choice2": "undefined",
+      "choice3": "NaN === NaN",
+      "choice4": "None. It's a hardware problem.",
+      "answer": 4
+    },
+    {
+      "question":"What's the object oriented way to become wealthy?",
+      "choice1": "Inheritance",
+      "choice2": "Have some class",
+      "choice3": "Super props",
+      "choice4": "Wealth is subjective",
+      "answer": 1
+    },
+    {
+      "question": "What should you do when a bug is sad?",
+      "choice1": "Help it out of a bind",
+      "choice2": "Console it",
+      "choice3": "Express your feelings",
+      "choice4": "Be more responsive",
+      "answer": 2
+    }
+  
+  
+  
+  ]
